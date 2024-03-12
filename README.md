@@ -18,12 +18,11 @@ The templates all include an example **DEX flashloan arbitrage strategy** to dem
 
 - Sign transactions and create bundles to send to Flashbots (also supports sending transactions to the mempool).
 
-
 ## What is this?
 
 ![Professor Oak](https://github.com/solidquant/mev-templates/assets/134243834/553560de-3334-4d4b-a447-14aa91ad28de)
 
-> (Professor Oak) *Good. So you are here.*
+> (Professor Oak) _Good. So you are here._
 
 In this Github repository, you can pick one of the most popular languages to use in your MEV project. By studying this project, you'll get a feel for how MEV strategies are built.
 
@@ -79,3 +78,5 @@ You can find more about this project in my blog post:
 [👨‍👩‍👦‍👦 Join the Solid Quant Discord Server!](https://discord.com/invite/e6KpjTQP98)
 
 Also, for people that want to reach out to me, they can e-mail me directly at: solidquant@gmail.com
+
+Test
